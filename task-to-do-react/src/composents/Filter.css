@@ -1,0 +1,32 @@
+.filter{
+    display: block;
+    margin: 0 0 0 50%;
+}
+.textFilter{
+    font-size: 50px;
+    height: auto;
+    width: auto;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 0;
+    margin-left: -5%;
+}
+button.finish{
+    background-color: transparent;
+    font-size:large;
+    color: green;
+    border: none;
+    height: auto;
+    width: auto;
+    margin-left: -10%;
+}
+button.progress{
+    background-color: transparent;
+    font-size:large;
+    color: red;
+    border: none;
+    height: auto;
+    width: auto;
+    margin-left: 5%;
+
+}

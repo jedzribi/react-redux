@@ -1,0 +1,16 @@
+.TodoCard{
+    height: auto;
+    width: 400px;
+    display: flex;
+    justify-content: left;
+    margin: 0 auto 0 34% ;
+    color: white;
+}
+.todo{
+    display: flex;
+}
+h3{
+    height: auto;
+    width: 350px;
+    /* margin-left: -5%; */
+}

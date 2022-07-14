@@ -1,0 +1,29 @@
+.App {
+  justify-content: center;
+  display: flex;
+  
+}
+button{
+  height: 50px;
+  width: 50px;
+  margin:0.5% 1% 0.5% 1%;
+}
+p{
+  height: 50px;
+  width:  50px;
+  /* justify-content: center; */
+  text-align: center;
+  margin: 8px -25px 0 -25px;
+  padding: 0 15px 0 15px;
+  font-size: 35px;
+}
+.plus{
+  background-color: green;
+  border: none;
+  color: white;
+}
+.moins{
+  background-color: red;
+  border: none;
+  color: white;
+}

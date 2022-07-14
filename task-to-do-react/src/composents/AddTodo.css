@@ -1,0 +1,14 @@
+.ADDTODO{
+    margin: 15% 0 0 0;
+}
+.addtodo{
+    margin:0 0 0 37%;
+}
+input{
+    width: 530px;
+}
+button.add{
+    background-color: transparent;
+    color: white;
+    border: none;
+}

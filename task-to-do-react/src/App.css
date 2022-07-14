@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik+Mono+One');
+body {
+  background-image: url(https://techdotsllc.com/static/media/react.39b66caa.gif);
+  background-repeat:no-repeat;
+  background-size:25%;
+  background-color:rgb(33, 33, 33);
+}
+
+@keyframes text {
+  0% {
+		opacity: 0;
+    letter-spacing: 150px;
+		text-shadow: 0 0 50px #fff;
+	}
+  50% {
+    letter-spacing: 50px
+  }
+	100% {
+		opacity: 0.8;
+    letter-spacing: 3px;
+		text-shadow: 0 0 1px #fff;
+	}  
+}
+
+* {
+  box-sizing: border-box;
+  margin-left: 15px;
+}
+
+.text {
+  font-family: 'Rubik Mono One', sans-serif;
+  background:transparent;
+  color: #fff;
+  text-align: center;
+  overflow: hidden;
+  height: 600px;
+  width: 300px;
+  position: fixed;
+}
+
+#text {
+  font-size: 50px;
+  text-transform: uppercase;
+  animation: text 10s linear forwards infinite ;
+  
+}
+
