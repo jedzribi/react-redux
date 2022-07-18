@@ -1,0 +1,11 @@
+
+form {
+    text-align: center;
+    user-select:none;
+    display: flex;
+    margin-top:10px;
+    margin-left: 220px;
+}
+input{
+    width: 450px;
+}

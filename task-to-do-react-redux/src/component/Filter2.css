@@ -1,0 +1,16 @@
+button.filter{
+    height: 25px;
+    width: 150px;
+    background-color: transparent;
+    color:red;
+    font-size: large;
+    cursor: pointer;
+    user-select: none;
+}
+button.filter:hover{
+    color:white;
+    background-color: red;
+}
+.taskfilter{
+    text-align: left;
+}

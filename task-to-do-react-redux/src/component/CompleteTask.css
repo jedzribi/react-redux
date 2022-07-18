@@ -1,0 +1,48 @@
+.btncomplete{
+    color:green;
+    background-color: transparent;
+    margin-right: 5px;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    font-family: bold;
+    font-size: medium;
+    border: 1px solid #bdbdbd;
+    height: 48px;
+    width: 110px;
+    padding: 0 24px 0 24px;
+    letter-spacing: 0.25px;
+    border-radius: 24px;
+    cursor: pointer;
+}
+.btncomplete:hover{
+    color:white;
+    background-color: red;
+}
+.btnundo{
+    color:red;
+    background-color: transparent;
+    margin-right: 5px;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    font-family: bold;
+    font-size: medium;
+    border: 1px solid #bdbdbd;
+    height: 48px;
+    width: 110px;
+    padding: 0 24px 0 24px;
+    letter-spacing: 0.25px;
+    border-radius: 24px;
+    cursor: pointer;
+}
+.btnundo:hover{
+    color:white;
+    background-color: green;
+}
+.task1{
+    color:green
+}
+.task2{
+    color:red
+}

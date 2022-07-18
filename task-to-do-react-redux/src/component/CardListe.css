@@ -1,0 +1,12 @@
+.cardliste{
+    border: 5px solid;
+    border-radius: 25px;
+    margin: 1% 35% 0 35%;
+    height: auto;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+h3{
+    text-align: left;
+}
